@@ -8,4 +8,4 @@ Dùng git:
 - git add tên_file hoặc thư mục đã thay đổi
 - git commit -m "nội dung thay đổi"
 - git push origin tên_branch
-- update: git pull
+- update: git pull orgin master
